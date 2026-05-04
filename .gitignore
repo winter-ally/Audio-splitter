@@ -1,0 +1,9 @@
+# Android Studio / Gradle junk 
+.gradle/ 
+build/ 
+app/build/ 
+captures/ 
+*.iml 
+.idea/ 
+local.properties 
+.DS_Store 

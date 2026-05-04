@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudioSplitterMVP</string>
+    <string name="audio_routing_label">Audio Routing Attribution</string>
+</resources>
